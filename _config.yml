@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Runnan Chen"
-description              : 
-repository               : "runnanchen/runnanchen.github.io"
+description              : ""
+#repository               : "runnanchen/runnanchen.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Runnan Chen"
   avatar           : "images/runnan.png"
-  bio              : # "Lorem ipsum College"
+  bio              : "PhD@HKU, Postdoc@USYD"
   location         : "Sydney Australia"
   employer         :
   pubmed           : 
