@@ -34,7 +34,7 @@ My research interest is in 3D spatial intelligence, focusing on how intelligent 
 - *2023.07*: &nbsp; 🎉 Five papers are accepted by ICCV. 
 - *2023.02*: &nbsp; 🎉 One paper is accepted by CVPR. 
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
