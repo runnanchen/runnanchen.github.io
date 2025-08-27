@@ -39,7 +39,7 @@ My research interest is in 3D spatial intelligence, focusing on how intelligent 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/clip2scene_f.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-CLIP2Scene: Towards Label-efficient 3D Scene Understanding by CLIP
+[CLIP2Scene: Towards Label-efficient 3D Scene Understanding by CLIP](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_CLIP2Scene_Towards_Label-Efficient_3D_Scene_Understanding_by_CLIP_CVPR_2023_paper.pdf)
 
 **Runnan Chen**, Youquan Liu, Lingdong Kong, Xinge Zhu, Yuexin Ma, Yikang Li, Yuenan Hou, Yu Qiao, Wenping Wang
 ICCV, 2025
