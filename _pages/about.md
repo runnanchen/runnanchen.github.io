@@ -23,8 +23,16 @@ My research interest is in 3D spatial intelligence, focusing on how intelligent 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.06*: &nbsp; 🎉 One papers is accepted by MICCAI.
+- *2025.05*: &nbsp; 🎉 One papers is accepted by TVCG.
+- *2025.05*: &nbsp; 🎉 One papers is accepted by ICML.
+- *2025.02*: &nbsp; 🎉 One papers is accepted by CVPR.
+- *2024.07*: &nbsp; 🎉 One paper is accepted by ECCV.
+- *2024.02*: &nbsp; 🎉 Four papers are accepted by CVPR.
+- *2023.09*: &nbsp; 🎉 Two papers are accepted by NeurIPS. 
+- *2023.07*: &nbsp; 🎉 One paper is accepted by ACM MM. 
+- *2023.07*: &nbsp; 🎉 Five papers are accepted by ICCV. 
+- *2023.02*: &nbsp; 🎉 One paper is accepted by CVPR. 
 
 # 📝 Publications 
 
