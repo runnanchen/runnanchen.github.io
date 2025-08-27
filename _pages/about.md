@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a postdoctoral researcher at the University of Sydney, under the supervision of <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>Prof Tongliang Liu <strong></a>. Prior to that, I received my PhD in Computer Science from the University of Hong Kong in 2023, under the supervision of <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>Prof Wenping Wang <strong></a>. 
+I am currently a postdoctoral researcher at the University of Sydney, under the supervision of <a href='https://tongliang-liu.github.io/'>Prof Tongliang Liu <strong>. Prior to that, I received my PhD in Computer Science from the University of Hong Kong in 2023, under the supervision of <a href='https://www.cs.hku.hk/people/academic-staff/wenping'>Prof Wenping Wang <strong></a>. 
 
 My research interest is in 3D spatial intelligence, focusing on how intelligent agents can reconstruct, generate, perceive, reason, and interact in the 3D world, supporting core applications such as autonomous driving, robotic navigation, augmented reality, and smart healthcare.
 
