@@ -158,7 +158,7 @@ TMI, 2022
 [Pr-net: Preference reasoning for personalized video highlight detection](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_PR-Net_Preference_Reasoning_for_Personalized_Video_Highlight_Detection_ICCV_2021_paper.pdf)
 
 **Runnan Chen**, Penghao Zhou, Wenzhe Wang, Nenglun Chen, Pai Peng, Xing Sun, Wenping Wang.
-ICCV, 2022
+ICCV, 2021
 [\[paper\]](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_PR-Net_Preference_Reasoning_for_Personalized_Video_Highlight_Detection_ICCV_2021_paper.pdf)
 </div>
 </div>
@@ -175,6 +175,10 @@ MICCAI, 2019
 [\[Code\]](https://github.com/runnanchen/Anatomic-Landmark-Detection)
 </div>
 </div>
+
+#  Academic Services
+- Journal reviewers:* TPAMI, IJCV, TMI, TIP.
+- *Regular conference reviewers/program committee* NeurIPS, SIGGRAPH, CVPR, ICML, ICLR, ICCV, ECCV, AAAI, IJCAI, ACM MM, MICCAI. 
 
 
 # 🎖 Honors and Awards
