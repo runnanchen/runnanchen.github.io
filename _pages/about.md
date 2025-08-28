@@ -52,8 +52,12 @@ CVPR, 2025
 </div>
 
 
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/Non-Transferable.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 
 [When Data-Free Knowledge Distillation Meets Non-Transferable Teacher: Escaping Out-of-Distribution Trap is All You Need](https://arxiv.org/pdf/2507.04119?)
 
@@ -61,6 +65,40 @@ Ziming Hong, **Runnan Chen**, Zengmao Wang, Bo Han, Bo Du, Tongliang Liu.
 ICML, 2025
 [\[Paper\]](https://arxiv.org/pdf/2507.04119?)
 [\[Code\]](https://github.com/tmllab/2025_ICML_ATEsc)
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/surprise3D.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SURPRISE3D: A Dataset for Spatial Understanding and Reasoning in Complex 3D Scenes](https://arxiv.org/pdf/2507.07781)
+
+Jiaxin Huang, Ziwen Li, Hanlve Zhang, **Runnan Chen**, Xiao He, Yandong Guo, Wenping Wang, Tongliang Liu, Mingming Gong.
+arXiv, 2025
+[\[Paper\]](https://arxiv.org/pdf/2507.07781)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/OVGaussian_demo.mp4' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[OVGaussian: Generalizable 3D Gaussian Segmentation with Open Vocabularies](https://arxiv.org/pdf/2501.00326)
+
+**Runnan Chen**, Xiangyu Sun, Zhaoqing Wang, Youquan Liu, Jiepeng Wang, Lingdong Kong, Jiankang Deng, Mingming Gong, Liang Pan, Wenping Wang, Tongliang Liu.
+arXiv, 2024
+[\[Paper\]](https://arxiv.org/pdf/2501.00326)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/panoslam.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Panoslam: Panoptic 3d scene reconstruction via gaussian slam](https://arxiv.org/pdf/2501.00352)
+
+**Runnan Chen**, Zhaoqing Wang, Jiepeng Wang, Yuexin Ma, Mingming Gong, Wenping Wang, Tongliang Liu.
+arXiv, 2024
+[\[Paper\]](https://arxiv.org/pdf/2501.00352)
 </div>
 </div>
 
@@ -125,6 +163,17 @@ ICCV, 2023
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/seal.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Segment Any Point Cloud Sequences by Distilling Vision Foundation Models](https://proceedings.neurips.cc/paper_files/paper/2023/file/753d9584b57ba01a10482f1ea7734a89-Paper-Conference.pdf)
+
+Youquan Liu, Lingdong Kong, Jun Cen, **Runnan Chen**, Wenwei Zhang, Liang Pan, Kai Chen, Ziwei Liu.
+NeurIPS, 2023
+[\[paper\]](https://proceedings.neurips.cc/paper_files/paper/2023/file/753d9584b57ba01a10482f1ea7734a89-Paper-Conference.pdf)
+[\[Code\]](https://github.com/youquanl/Segment-Any-Point-Cloud)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/free3d.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
