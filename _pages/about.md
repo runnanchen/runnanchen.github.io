@@ -80,7 +80,7 @@ arXiv, 2025
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><video src='images/OVGaussian_demo.mp4' width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><video src='images/OVGaussian_demo.mp4' width="100%"></video></div></div>
 <div class='paper-box-text' markdown="1">
 
 [OVGaussian: Generalizable 3D Gaussian Segmentation with Open Vocabularies](https://arxiv.org/pdf/2501.00326)
