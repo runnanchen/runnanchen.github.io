@@ -213,6 +213,20 @@ ICCV, 2021
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2020</div><img src='images/unsupervised3d.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Unsupervised learning of intrinsic structural representation points](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Unsupervised_Learning_of_Intrinsic_Structural_Representation_Points_CVPR_2020_paper.pdf)
+
+Nenglun Chen, Lingjie Liu, Zhiming Cui, **Runnan Chen**, Duygu Ceylan, Changhe Tu, Wenping Wang.
+CVPR, 2020
+[\[paper\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Unsupervised_Learning_of_Intrinsic_Structural_Representation_Points_CVPR_2020_paper.pdf)
+[\[Code\]](https://github.com/NolenChen/3DStructurePoints)
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2019</div><img src='images/AFPF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
