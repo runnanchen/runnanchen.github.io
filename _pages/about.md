@@ -69,7 +69,7 @@ ICML, 2025
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><video src='images/surprise3D.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/surprise3D.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SURPRISE3D: A Dataset for Spatial Understanding and Reasoning in Complex 3D Scenes](https://arxiv.org/pdf/2507.07781)
@@ -80,7 +80,7 @@ arXiv, 2025
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/OVGaussian_demo.mp4' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><video src='images/OVGaussian_demo.mp4' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [OVGaussian: Generalizable 3D Gaussian Segmentation with Open Vocabularies](https://arxiv.org/pdf/2501.00326)
