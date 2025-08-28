@@ -177,8 +177,8 @@ MICCAI, 2019
 </div>
 
 #  Academic Services
-- Journal reviewers:* TPAMI, IJCV, TMI, TIP.
-- *Regular conference reviewers/program committee* NeurIPS, SIGGRAPH, CVPR, ICML, ICLR, ICCV, ECCV, AAAI, IJCAI, ACM MM, MICCAI. 
+- Journal reviewers: TPAMI, IJCV, TMI, TIP.
+- Regular conference reviewers/program committee: NeurIPS, SIGGRAPH, CVPR, ICML, ICLR, ICCV, ECCV, AAAI, IJCAI, ACM MM, MICCAI. 
 
 
 # 🎖 Honors and Awards
