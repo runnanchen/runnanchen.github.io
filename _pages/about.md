@@ -163,6 +163,18 @@ ICCV, 2023
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/uniSeg.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Uniseg: A unified multi-modal lidar segmentation network and the openpcseg codebase](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_UniSeg_A_Unified_Multi-Modal_LiDAR_Segmentation_Network_and_the_OpenPCSeg_ICCV_2023_paper.pdf)
+
+Youquan Liu, **Runnan Chen**, Xin Li, Lingdong Kong, Yuchen Yang, Zhaoyang Xia, Yeqi Bai, Xinge Zhu, Yuexin Ma, Yikang Li, Yu Qiao, Yuenan Hou.
+NeurIPS, 2023
+[\[paper\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_UniSeg_A_Unified_Multi-Modal_LiDAR_Segmentation_Network_and_the_OpenPCSeg_ICCV_2023_paper.pdf)
+[\[Code\]](https://github.com/PJLab-ADG/PCSeg)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/seal.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
