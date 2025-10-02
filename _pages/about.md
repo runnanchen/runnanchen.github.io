@@ -90,7 +90,7 @@ NeurIPS, 2025
 
 [MLLM-For3D: Adapting Multimodal Large Language Model for 3D Reasoning Segmentation](https://arxiv.org/pdf/2503.18135)
 
-Jiaxin Huang, **Runnan Chen***, Ziwen Li, Zhengqing Gao, Xiao He, Yandong Guo, Mingming Gong, Tongliang Liu*.
+Jiaxin Huang, **Runnan Chen** *, Ziwen Li, Zhengqing Gao, Xiao He, Yandong Guo, Mingming Gong, Tongliang Liu *.
 NeurIPS, 2025
 [\[Paper\]](https://arxiv.org/pdf/2503.18135)
 </div>
