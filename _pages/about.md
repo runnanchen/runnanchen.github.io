@@ -17,17 +17,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a postdoctoral researcher at the University of Sydney, under the supervision of [Prof Tongliang Liu](https://tongliang-liu.github.io/). Prior to that, I received my PhD from the Department of Computer Science at the University of Hong Kong in 2023, under the supervision of [Prof Wenping Wang](https://www.cs.hku.hk/people/academic-staff/wenping). 
+I received my PhD from the Department of Computer Science at the University of Hong Kong in 2023, under the supervision of [Prof Wenping Wang](https://www.cs.hku.hk/people/academic-staff/wenping). I am currently a postdoctoral researcher at the University of Sydney, under the supervision of [Prof Tongliang Liu](https://tongliang-liu.github.io/). 
 
 My research interest is in 3D spatial intelligence, focusing on how intelligent agents can reconstruct, generate, perceive, reason, and interact in the 3D world, supporting core applications such as autonomous driving, robotics, AR/VR, and smart healthcare.
 
 
+
+
 # 🔥 News
-- *2025.09*: &nbsp; 🎉 One papers is accepted by TPAMI.
+- *2025.09*: &nbsp; 🎉 One paper is accepted by TPAMI.
 - *2025.09*: &nbsp; 🎉 Two papers are accepted by NeurIPS.
-- *2025.06*: &nbsp; 🎉 One papers is accepted by MICCAI.
-- *2025.05*: &nbsp; 🎉 One papers is accepted by TVCG.
-- *2025.05*: &nbsp; 🎉 One papers is accepted by ICML.
+- *2025.06*: &nbsp; 🎉 One paper is accepted by MICCAI.
+- *2025.05*: &nbsp; 🎉 One paper is accepted by TVCG.
+- *2025.05*: &nbsp; 🎉 One paper is accepted by ICML.
 - *2025.02*: &nbsp; 🎉 Our [Large Vision Diffusion Transformer](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_LaVin-DiT_Large_Vision_Diffusion_Transformer_CVPR_2025_paper.pdf) is accepted by CVPR.
 - *2024.07*: &nbsp; 🎉 One paper is accepted by ECCV.
 - *2024.02*: &nbsp; 🎉 Four papers are accepted by CVPR.
@@ -71,7 +73,7 @@ ICML, 2025
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/surprise3D.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/surprise3D.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SURPRISE3D: A Dataset for Spatial Understanding and Reasoning in Complex 3D Scenes](https://arxiv.org/pdf/2507.07781)
@@ -79,6 +81,7 @@ ICML, 2025
 Jiaxin Huang, Ziwen Li, Hanlve Zhang, **Runnan Chen**, Xiao He, Yandong Guo, Wenping Wang, Tongliang Liu, Mingming Gong.
 arXiv, 2025
 [\[Paper\]](https://arxiv.org/pdf/2507.07781)
+[\[Data\]](https://github.com/liziwennba/SURPRISE3D)
 </div>
 </div>
 
@@ -260,6 +263,7 @@ MICCAI, 2019
 
 # 🎖 Honors and Awards
 - *2017-2021* Postgraduate Scholarship of HKU.
+- *2015* Excellent Graduate of Dalian City. 
 - *2013* National Scholarship. 
 - *2012* Liaoning Government Scholarship. 
 
