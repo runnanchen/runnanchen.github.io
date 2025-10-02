@@ -274,6 +274,7 @@ MICCAI, 2019
 
 # 🎖 Honors and Awards
 - *2017-2021* Postgraduate Scholarship of HKU.
+- *2017* Graduate with “Distinctions” at HKU
 - *2015* Excellent Graduate of Dalian City. 
 - *2013* National Scholarship. 
 - *2012* Liaoning Government Scholarship. 
