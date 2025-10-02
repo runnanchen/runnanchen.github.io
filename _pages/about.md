@@ -79,9 +79,20 @@ ICML, 2025
 [SURPRISE3D: A Dataset for Spatial Understanding and Reasoning in Complex 3D Scenes](https://arxiv.org/pdf/2507.07781)
 
 Jiaxin Huang, Ziwen Li, Hanlve Zhang, **Runnan Chen**, Xiao He, Yandong Guo, Wenping Wang, Tongliang Liu, Mingming Gong.
-arXiv, 2025
+NeurIPS, 2025
 [\[Paper\]](https://arxiv.org/pdf/2507.07781)
 [\[Data\]](https://github.com/liziwennba/SURPRISE3D)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/MLLMfor3D.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MLLM-For3D: Adapting Multimodal Large Language Model for 3D Reasoning Segmentation](https://arxiv.org/pdf/2503.18135)
+
+Jiaxin Huang, **Runnan Chen***, Ziwen Li, Zhengqing Gao, Xiao He, Yandong Guo, Mingming Gong, Tongliang Liu*.
+NeurIPS, 2025
+[\[Paper\]](https://arxiv.org/pdf/2503.18135)
 </div>
 </div>
 
