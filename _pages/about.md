@@ -25,6 +25,7 @@ My research interest is in 3D spatial intelligence, focusing on how intelligent 
 
 
 # 🔥 News
+- *2026.01*: &nbsp; 🎉 One paper is accepted by ICRA.
 - *2025.11*: &nbsp; 🎉 One paper is accepted by AAAI.
 - *2025.09*: &nbsp; 🎉 One paper is accepted by TPAMI.
 - *2025.09*: &nbsp; 🎉 Two papers are accepted by NeurIPS.
