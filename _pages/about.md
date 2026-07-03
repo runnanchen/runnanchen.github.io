@@ -30,7 +30,7 @@ I received my PhD from the Department of Computer Science at the University of H
 - *2025.06*: &nbsp; 🎉 One paper is accepted by MICCAI.
 - *2025.05*: &nbsp; 🎉 One paper is accepted by TVCG.
 - *2025.05*: &nbsp; 🎉 One paper is accepted by ICML.
-- *2025.02*: &nbsp; 🎉 Our [Large Vision Diffusion Transformer](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_LaVin-DiT_Large_Vision_Diffusion_Transformer_CVPR_2025_paper.pdf) is accepted by CVPR.
+- *2025.02*: &nbsp; 🎉 One paper is accepted by CVPR.
 - *2024.07*: &nbsp; 🎉 One paper is accepted by ECCV.
 - *2024.02*: &nbsp; 🎉 Four papers are accepted by CVPR.
 - *2023.09*: &nbsp; 🎉 Two papers are accepted by NeurIPS. 
